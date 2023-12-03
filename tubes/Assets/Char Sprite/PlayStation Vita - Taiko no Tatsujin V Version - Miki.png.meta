@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: edd483242e94bc24abd3ac5ef393f52f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 108
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918a96c8f176dcc4d907b15fe431ac45
+      internalID: 23952269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 417
+        width: 110
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d89b1b6d1db3cd42ae6826103dc84d0
+      internalID: 607350449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 196
+        width: 107
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115e39e5df6edf2479e9cee95b54c4bd
+      internalID: 446937982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 198
+        width: 110
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefddb878b810d04491422d236a7f007
+      internalID: 297960505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 225
+        width: 105
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef7caf08e110049913234f81baf278
+      internalID: -77966176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 226
+        width: 106
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6819d1029ad1d8a4ea51608021915aaa
+      internalID: -939324285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 227
+        width: 103
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df897bdc7cd2f40a17814e840b866c
+      internalID: 2128362003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 226
+        width: 111
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545098f24f873c145835fe986a0a8488
+      internalID: -130805950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 227
+        width: 109
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccf52ba2bd67ba4db7e61eef3886893
+      internalID: -940479734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_9
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 231
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa067445315c5542954b30f721fcb1b
+      internalID: 2097422134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 130
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aec207c30c7fe45a05acf4fc971bf1
+      internalID: -383941033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 130
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209bff51ee2bf6a43888fb69fd499bf4
+      internalID: 194219748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 5
+        width: 117
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943db7890947a9047bc58d185485bd4c
+      internalID: 1968195611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 6
+        width: 117
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4049328, y: 0.50858253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bf49a3798921c4498056caf7826149
+      internalID: -1899397048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 5
+        width: 117
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a859ef975d027b244a8dcc56fcb357e6
+      internalID: 755993292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_15
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 6
+        width: 117
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0c765ccfd1c4d4f9caafb019fa1441
+      internalID: 920375786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_16
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 4
+        width: 111
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13142a7da9e518f47a97c6d5b79fb07a
+      internalID: 1511953943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Miki_17
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 111
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c71bbeb9ed628d4db0005db9b2b6c6a
+      internalID: -1122222711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_0: 40153884
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_1: 607350449
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_10: 2128362003
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_11: 1206148898
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_12: -130805950
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_13: -940479734
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_14: 2097422134
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_15: -383941033
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_16: 194219748
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_17: 1968195611
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_2: 23952269
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_3: -1295622291
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_4: 446937982
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_5: 297960505
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_6: -1520046569
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_7: 550726099
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_8: -77966176
+      PlayStation Vita - Taiko no Tatsujin V Version - Miki_9: -939324285
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

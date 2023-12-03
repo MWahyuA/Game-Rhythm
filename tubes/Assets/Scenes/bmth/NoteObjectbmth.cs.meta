@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 727f9cd7f78c8054585751bee550408e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Miss: {instanceID: 0}
+  - poorEffect: {fileID: 6385866789572727395, guid: 9d5117f592e470643a85992f79f1edc2, type: 3}
+  - goodEffect: {fileID: 1845289052247659590, guid: 80322fc1034ccd549aca0444e7859372, type: 3}
+  - badEffect: {fileID: 5769704209848892073, guid: e458844fd731cc44e88fd2cefe7f4427, type: 3}
+  - greatEffect: {fileID: 3997451008603209502, guid: 922b3a94ae421af4ab6f3238d3bfbda4, type: 3}
+  - character: {instanceID: 0}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
